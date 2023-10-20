@@ -1,5 +1,5 @@
-#remote_theme: martin-halla/eleven
-theme: eleven-theme
+remote_theme: martin-halla/eleven
+#theme: eleven-theme
 
 eleven:
   name: Martin Halla
