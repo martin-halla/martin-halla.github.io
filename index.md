@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Martin Halla
+list_title: ' '
 ---
 
 Martin Halla
