@@ -1,6 +1,6 @@
 ---
 layout: block
-title: Research interestss
+title: Research interests
 order: 2
 ---
 
@@ -11,4 +11,4 @@ Analysis and numerical methods for partial differential equations
 * Eigenvalue problems (holomorphic, non-selfadjoint EVPs; existence, stability  and approximation of EVs)  
 * Transparent boundary conditions (perfectly matched layers, infinite elements; backward, anisotropic waves)  
 * Compatible discretizations (T-coercivity; Galbrun’s equation, nonstandard Maxwell problems)  
-* Target signatures in inverse scattering (transmission eigenvalues, Steklov eigenvalues; linear sampling, inside outside-duality)
+* Target signatures in inverse scattering (transmission EVs, Steklov EVs; linear sampling, inside outside duality)

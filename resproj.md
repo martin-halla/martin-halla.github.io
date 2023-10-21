@@ -4,4 +4,4 @@ title: Research projects
 order: 3
 ---
 
-DFG Project 468728622 Analysis of eigenvalue problems arising in qualitative methods for inverse scattering  <!-- https://gepris.dfg.de/gepris/projekt/468728622?context=projekt&task=showDetail&id=468728622& -->
+* DFG Project 468728622 _Analysis of eigenvalue problems arising in qualitative methods for inverse scattering_  <!-- https://gepris.dfg.de/gepris/projekt/468728622?context=projekt&task=showDetail&id=468728622& -->
