@@ -1,10 +1,12 @@
 ---
 layout: block
-title: Technical Reports <!-- Publications -->
-order: 2
+title: Publications
+order: 3
 ---
 
-[3] _Convergence analysis of nonconform $H(\operatorname{div})$-finite elements for the damped time-harmonic Galbrun's equation_  
+Technical Reports 
+------------
+  [3]_Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
 M. Halla  
 [arXiv:2306.03496](https://arxiv.org/abs/2306.03496)
 
@@ -70,7 +72,7 @@ M. Halla, T. Hohage, L. Nannen, J. Schöberl
 M. Halla, L. Nannen  
 [Wave Motion, Volume 59, Pages 94-110 (2015)](https://doi.org/10.1016/j.wavemoti.2015.08.002)
 
-Other
+Proceedings
 ------------
 [1] _Robust finite element discretizations for a simplified Galbrun's equation_  
 T. Alemán, M. Halla, C. Lehrenfeld, P. Stocker  
