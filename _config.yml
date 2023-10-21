@@ -4,7 +4,7 @@ remote_theme: martin-halla/eleven
 eleven:
   name: Martin Halla
   date_format: "%b %d, %Y"
-  logo:  "assets/martin_halla_2023_simonis_1.jpg" 
+  logo:  "assets/martin_halla_2023_simonis_1_cut1.jpg" 
 
 permalink: post/:title
 

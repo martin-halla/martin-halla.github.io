@@ -1,6 +1,6 @@
 ---
 layout: block
-title: Conference organizing activities
+title: Events
 order: 4
 ---
 
