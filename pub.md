@@ -4,7 +4,7 @@ title: Publications
 order: 6
 ---
 
-Technical Reports 
+Technical reports 
 ------------
 [3] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
 M. Halla  
