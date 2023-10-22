@@ -16,7 +16,7 @@ M. Halla, P. Monk
 
 [1] _A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun's equation_  
 M. Halla, C. Lehrenfeld, P. Stocker  
-[arXiv:2209.01878)](https://arxiv.org/abs/2209.01878)
+[arXiv:2209.01878](https://arxiv.org/abs/2209.01878)
 
 Refereed articles
 ------------
