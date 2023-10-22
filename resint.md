@@ -1,7 +1,7 @@
 ---
 layout: block
 title: Research interests
-order: 2
+order: 3
 ---
 
 Analysis and numerical methods for partial differential equations
