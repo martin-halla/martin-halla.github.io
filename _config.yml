@@ -4,12 +4,13 @@ remote_theme: martin-halla/eleven
 eleven:
   name: Martin Halla
   date_format: "%b %d, %Y"
-  logo:  "assets/martin_halla_2023_simonis_1_cut1.jpg" 
+  logo: "assets/logo.png"
+  #logo:  "assets/martin_halla_2023_simonis_1_cut1.jpg" 
 
 permalink: post/:title
 
 title: "Martin Halla"
-description: "Martin Halla, mathematician, Post-Doc Uni Göttingen, Mail: m.halla@math.uni-goettingen.de"
+description: "Martin Halla, E-Mail: m.halla@math.uni-goettingen.de"
 
 excerpt_separator: <!--more-->
 page_excerpts: true
