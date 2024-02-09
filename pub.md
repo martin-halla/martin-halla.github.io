@@ -26,7 +26,7 @@ M. Halla
 
 [12] _Electromagnetic Steklov eigenvalues: existence and distribution in the self-adjoint case_  
 M. Halla  
-[Research in the Mathematical Sciences, Volume 10, Issue, 18, Article 18 (2023)](https://doi.org/10.1007/s40687-023-00386-y)
+[Research in the Mathematical Sciences, Volume 10, Issue 2, Article 18 (2023)](https://doi.org/10.1007/s40687-023-00386-y)
 
 [11] _On the approximation of dispersive electromagnetic eigenvalue problems in two dimensions_  
 M. Halla  
