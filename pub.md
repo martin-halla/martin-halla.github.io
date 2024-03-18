@@ -6,6 +6,15 @@ order: 6
 
 Technical reports 
 ------------
+
+[5] _A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials_
+M. Halla, T. Hohage, F. Oberender
+[arXiv:2401.16368](https://arxiv.org/abs/2401.16368)
+
+[4] _Radial perfectly matched layers and infinite elements for the anisotropic wave equation_
+M. Halla, M. Kachanovska, M. Wess
+[arXiv:2401.13483](https://arxiv.org/abs/2401.13483)
+
 [3] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
 M. Halla  
 [arXiv:2306.03496](https://arxiv.org/abs/2306.03496)
@@ -72,11 +81,13 @@ M. Halla, T. Hohage, L. Nannen, J. Schöberl
 M. Halla, L. Nannen  
 [Wave Motion, Volume 59, Pages 94-110 (2015)](https://doi.org/10.1016/j.wavemoti.2015.08.002)
 
+<!--
 Proceedings
 ------------
 [1] _Robust finite element discretizations for a simplified Galbrun's equation_  
 T. Alemán, M. Halla, C. Lehrenfeld, P. Stocker  
 [8th ECCOMAS Congress, Oslo, Norway, (June 2022)](https://doi.org/10.23967/eccomas.2022.206)
+-->
 
 Thesis
 ------------
