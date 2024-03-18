@@ -7,12 +7,12 @@ order: 6
 Technical reports 
 ------------
 
-[5] _A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials_
-M. Halla, T. Hohage, F. Oberender
+[5] _A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials_  
+M. Halla, T. Hohage, F. Oberender  
 [arXiv:2401.16368](https://arxiv.org/abs/2401.16368)
 
-[4] _Radial perfectly matched layers and infinite elements for the anisotropic wave equation_
-M. Halla, M. Kachanovska, M. Wess
+[4] _Radial perfectly matched layers and infinite elements for the anisotropic wave equation_  
+M. Halla, M. Kachanovska, M. Wess  
 [arXiv:2401.13483](https://arxiv.org/abs/2401.13483)
 
 [3] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
