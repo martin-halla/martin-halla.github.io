@@ -7,21 +7,17 @@ order: 6
 Technical reports 
 ------------
 
-[5] _A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials_  
+[4] _A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials_  
 M. Halla, T. Hohage, F. Oberender  
 [arXiv:2401.16368](https://arxiv.org/abs/2401.16368)
 
-[4] _Radial perfectly matched layers and infinite elements for the anisotropic wave equation_  
+[3] _Radial perfectly matched layers and infinite elements for the anisotropic wave equation_  
 M. Halla, M. Kachanovska, M. Wess  
 [arXiv:2401.13483](https://arxiv.org/abs/2401.13483)
 
-[3] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
+[2] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
 M. Halla  
 [arXiv:2306.03496](https://arxiv.org/abs/2306.03496)
-
-[2] _On the analysis of waveguide modes in an electromagnetic transmission line_  
-M. Halla, P. Monk  
-[arXiv:2302.11994](https://arxiv.org/abs/2302.11994)
 
 [1] _A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun's equation_  
 M. Halla, C. Lehrenfeld, P. Stocker  
@@ -29,6 +25,11 @@ M. Halla, C. Lehrenfeld, P. Stocker
 
 Refereed articles
 ------------
+
+[14] _On the analysis of modes in a closed electromagnetic waveguide_  
+M. Halla, P. Monk  
+[Comptes Rendus. Mathématique, Volume 362, Pages 469-479 (2024)](https://doi.org/10.5802/crmath.516)
+
 [13] _On the existence and stability of modified Maxwell Steklov eigenvalues_  
 M. Halla  
 [SIAM Journal on Mathematical Analysis, Volume 55, Issue 5, Pages 5445-5463 (2023)](https://doi.org/10.1137/22M1509266)
