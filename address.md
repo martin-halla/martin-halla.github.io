@@ -9,7 +9,7 @@ Austrian Academy of Sciences
 Altenberger Straße 69  
 4040 Linz, Austria  
 Room 407  
-0043 (732) 2468 5279  
+0043 732 2468 5279  
 martin.halla [at] ricam.oeaw.ac.at
 
 <!-- Institut für Numerische und Angewandte Mathematik  
