@@ -5,7 +5,7 @@ title: Martin Halla
 
 Martin Halla
 ==============
-[E-MAIL](mailto:martin.halla@ricam.oeaw.at)
+[E-MAIL](mailto:martin.halla@ricam.oeaw.ac.at)
 <!-- [E-MAIL](mailto:m.halla@math.uni-goettingen.de) -->
 [ORCID](https://orcid.org/0000-0002-3010-3540)
 [MGP](https://genealogy.math.ndsu.nodak.edu/id.php?id=274858)
