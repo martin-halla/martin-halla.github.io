@@ -23,7 +23,7 @@ autoNumber: "AMS"
 </script>
 
 
-* 2025- now JRGL$\phantom{cL}$ @ [KIT](https://www.math.kit.edu/ianm_jrg5)
+* 2025- now JRGL$\phantom{MM}$ @ [KIT](https://www.math.kit.edu/ianm_jrg5)
 * 2024-2025 PostDoc @ [RICAM](https://www.oeaw.ac.at/ricam)
 * 2022-2024 PostDoc @ [Uni Göttingen](https://num.math.uni-goettingen.de)
 * 2021-2022 PostDoc @ [MPI for Solar System Research, Göttingen](https://www.mps.mpg.de)
