@@ -12,6 +12,6 @@ Martin Halla
 [MGP](https://genealogy.math.ndsu.nodak.edu/id.php?id=274858)
 [ZBMATH](https://zbmath.org/authors/halla.martin)
 [MATHSCINET](https://mathscinet.ams.org/mathscinet/author?authorId=1132278)
-[KIT](https://www.math.kit.edu/ianm_jrg5/en)
+[KIT](https://www.math.kit.edu/ianm_jrg5)
 <!-- [RICAM](https://www.oeaw.ac.at/ricam/staff/martin-halla) -->
 <!-- [NAM](https://www.uni-goettingen.de/de/mitarbeiter/668669.html) -->

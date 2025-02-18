@@ -5,7 +5,7 @@ order: 1
 ---
 
 Karlsruhe Institute of Technology  
-Department of Mathematics  
+<!-- Department of Mathematics  -->
 Institute for Applied and Numerical Mathematics  
 Englerstraße 2  
 76131 Karlsruhe, Germany  
