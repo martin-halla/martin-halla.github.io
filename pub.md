@@ -1,7 +1,7 @@
 ---
 layout: block
 title: Publications
-order: 6
+order: 7
 ---
 
 Technical reports 

@@ -10,7 +10,7 @@ eleven:
 permalink: post/:title
 
 title: "Martin Halla"
-description: "Martin Halla, E-Mail: m.halla@math.uni-goettingen.de"
+description: "Martin Halla, E-Mail: martin.halla@kit.edu"
 
 excerpt_separator: <!--more-->
 page_excerpts: true
