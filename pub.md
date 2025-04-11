@@ -7,13 +7,14 @@ order: 7
 Technical reports 
 ------------
 
-[4] _A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials_  
+[4] _On the instabilities of naive FEM discretizations for PDEs
+with sign-changing coefficients_  
+M. Halla, F. Oberender  
+[arXiv:2504.07712](https://arxiv.org/abs/2504.07712)
+
+[3] _A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials_  
 M. Halla, T. Hohage, F. Oberender  
 [arXiv:2401.16368](https://arxiv.org/abs/2401.16368)
-
-[3] _Radial perfectly matched layers and infinite elements for the anisotropic wave equation_  
-M. Halla, M. Kachanovska, M. Wess  
-[arXiv:2401.13483](https://arxiv.org/abs/2401.13483)
 
 [2] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
 M. Halla  
@@ -25,6 +26,11 @@ M. Halla, C. Lehrenfeld, P. Stocker
 
 Refereed articles
 ------------
+
+[15] _Radial perfectly matched layers and infinite elements for the anisotropic wave equation_  
+M. Halla, M. Kachanovska, M. Wess  
+SIAM Journal on Mathematical Analysis, in production  
+[extended report: arXiv:2401.13483](https://arxiv.org/abs/2401.13483)
 
 [14] _On the analysis of modes in a closed electromagnetic waveguide_  
 M. Halla, P. Monk  
