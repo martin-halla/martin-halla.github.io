@@ -7,6 +7,10 @@ order: 7
 Technical reports 
 ------------
 
+[5] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
+M. Halla, C. Lehrenfeld, T. van Beeck  
+[arXiv:2504.09547](https://arxiv.org/abs/2504.09547)
+
 [4] _On the instabilities of naive FEM discretizations for PDEs
 with sign-changing coefficients_  
 M. Halla, F. Oberender  
