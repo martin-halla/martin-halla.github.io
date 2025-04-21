@@ -92,16 +92,17 @@ M. Halla, T. Hohage, L. Nannen, J. Schöberl
 M. Halla, L. Nannen  
 [Wave Motion, Volume 59, Pages 94-110 (2015)](https://doi.org/10.1016/j.wavemoti.2015.08.002)
 
-<!--
 Proceedings
 ------------
 [1] _Robust finite element discretizations for a simplified Galbrun's equation_  
 T. Alemán, M. Halla, C. Lehrenfeld, P. Stocker  
 [8th ECCOMAS Congress, Oslo, Norway, (June 2022)](https://doi.org/10.23967/eccomas.2022.206)
--->
 
 Thesis
 ------------
 _Analysis of radial complex scaling methods for scalar resonance problems in open systems_  
 M. Halla  
 [PhD Thesis, Technische Universität Wien (2019)](https://repositum.tuwien.ac.at/urn:nbn:at:at-ubtuw:1-131893)
+
+<!--
+-->
