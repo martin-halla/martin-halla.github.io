@@ -7,33 +7,34 @@ order: 7
 Technical reports 
 ------------
 
-[5] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
+[4] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
 M. Halla, C. Lehrenfeld, T. van Beeck  
 [arXiv:2504.09547](https://arxiv.org/abs/2504.09547)
 
-[4] _On the instabilities of naive FEM discretizations for PDEs
+[3] _On the instabilities of naive FEM discretizations for PDEs
 with sign-changing coefficients_  
 M. Halla, F. Oberender  
 [arXiv:2504.07712](https://arxiv.org/abs/2504.07712)
 
-[3] _A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials_  
+[2] _A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials_  
 M. Halla, T. Hohage, F. Oberender  
 [arXiv:2401.16368](https://arxiv.org/abs/2401.16368)
 
-[2] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
+[1] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
 M. Halla  
 [arXiv:2306.03496](https://arxiv.org/abs/2306.03496)
-
-[1] _A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun's equation_  
-M. Halla, C. Lehrenfeld, P. Stocker  
-[arXiv:2209.01878](https://arxiv.org/abs/2209.01878)
 
 Refereed articles
 ------------
 
+[16] _A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun's equation_  
+M. Halla, C. Lehrenfeld, P. Stocker  
+IMA Journal of Numerical Analysis, accepted  
+[arXiv:2209.01878](https://arxiv.org/abs/2209.01878)
+
 [15] _Radial perfectly matched layers and infinite elements for the anisotropic wave equation_  
 M. Halla, M. Kachanovska, M. Wess  
-SIAM Journal on Mathematical Analysis, in production  
+[SIAM Journal on Mathematical Analysis, Volume 57, Issue 3, Pages 3171-3216 (2025)](https://doi.org/10.1137/24M1636551)  
 [extended report: arXiv:2401.13483](https://arxiv.org/abs/2401.13483)
 
 [14] _On the analysis of modes in a closed electromagnetic waveguide_  
