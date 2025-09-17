@@ -7,6 +7,10 @@ order: 7
 Technical reports 
 ------------
 
+[5] _Analysis of Circular Waveguides_  
+L. Demkowicz, M. Halla and J.M. Melenk  
+[Oden Institute Report 25-03](https://oden.utexas.edu/research/publications?searchNeedle=Analysis%20of%20Circular%20Waveguides)
+
 [4] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
 M. Halla, C. Lehrenfeld, T. van Beeck  
 [arXiv:2504.09547](https://arxiv.org/abs/2504.09547)
