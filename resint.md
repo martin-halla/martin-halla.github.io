@@ -4,8 +4,7 @@ title: Research interests
 order: 3
 ---
 
-Analysis and numerical methods for PDEs
-<!-- partial differential equations -->
+Analysis and numerical methods for PDEs <!-- partial differential equations -->
 ------------
 
 * __Wave equations__ (acoustics, elasticity, electromagnetism, plasmonics, meta materials, stellar oscillations, waveguides)  
