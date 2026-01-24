@@ -7,22 +7,13 @@ order: 7
 Technical reports 
 ------------
 
-[5] _Analysis of Circular Waveguides_  
+[3] _Analysis of Circular Waveguides_  
 L. Demkowicz, M. Halla, J.M. Melenk  
 [Oden Institute Report 25-03](https://oden.utexas.edu/research/publications?searchNeedle=Analysis%20of%20Circular%20Waveguides)
 
-[4] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
+[2] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
 M. Halla, C. Lehrenfeld, T. van Beeck  
 [arXiv:2504.09547](https://arxiv.org/abs/2504.09547)
-
-[3] _On the instabilities of naive FEM discretizations for PDEs
-with sign-changing coefficients_  
-M. Halla, F. Oberender  
-[arXiv:2504.07712](https://arxiv.org/abs/2504.07712)
-
-[2] _A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials_  
-M. Halla, T. Hohage, F. Oberender  
-[arXiv:2401.16368](https://arxiv.org/abs/2401.16368)
 
 [1] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
 M. Halla  
@@ -30,6 +21,15 @@ M. Halla
 
 Refereed articles
 ------------
+
+[18] _On the instabilities of naive FEM discretizations for PDEs
+with sign-changing coefficients_  
+M. Halla, F. Oberender  
+[ESAIM: Mathematical Modelling and Numerical Analysis, in production (2026)](https://arxiv.org/abs/2504.07712)  
+
+[17] _A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials_  
+M. Halla, T. Hohage, F. Oberender  
+[Journal of Scientific Computing, Volume 106, Article 61 (2026)](https://doi.org/10.1007/s10915-026-03192-0)  
 
 [16] _A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun's equation_  
 M. Halla, C. Lehrenfeld, P. Stocker  
