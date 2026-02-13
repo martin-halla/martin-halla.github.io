@@ -25,8 +25,7 @@ Refereed articles
 [18] _On the instabilities of naive FEM discretizations for PDEs
 with sign-changing coefficients_  
 M. Halla, F. Oberender  
-[ESAIM: Mathematical Modelling and Numerical Analysis, in production (2026)](https://doi.org/10.1051/m2an/2025102)  
-<!-- https://arxiv.org/abs/2504.07712)  -->
+[ESAIM: Mathematical Modelling and Numerical Analysis, Volume 60, Number 1, Pages 197-222 (2026)](https://doi.org/10.1051/m2an/2025102)  
 
 [17] _A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials_  
 M. Halla, T. Hohage, F. Oberender  
