@@ -7,20 +7,21 @@ order: 7
 Technical reports 
 ------------
 
-[3] _Analysis of Circular Waveguides_  
+[2] _Analysis of Circular Waveguides_  
 L. Demkowicz, M. Halla, J.M. Melenk  
 [Oden Institute Report 25-03](https://oden.utexas.edu/research/publications?searchNeedle=Analysis%20of%20Circular%20Waveguides)
 
-[2] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
+[1] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
 M. Halla, C. Lehrenfeld, T. van Beeck  
 [arXiv:2504.09547](https://arxiv.org/abs/2504.09547)
 
-[1] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
-M. Halla  
-[arXiv:2306.03496](https://arxiv.org/abs/2306.03496)
-
 Refereed articles
 ------------
+
+[19] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
+M. Halla  
+Numerische Mathematik, in production (2026)  
+[arXiv:2306.03496](https://arxiv.org/abs/2306.03496)
 
 [18] _On the instabilities of naive FEM discretizations for PDEs
 with sign-changing coefficients_  
