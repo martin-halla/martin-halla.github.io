@@ -7,9 +7,17 @@ order: 7
 Technical reports 
 ------------
 
-[2] _Analysis of Circular Waveguides_  
+[3] _Modal bases of coaxial electromagnetic step index fibers_  
+M. Halla  
+[arXiv:2603.16716](https://arxiv.org/abs/2603.16716)
+
+[2] _Length-explicit stability analysis of Helmholtz problems in leaky
+circular waveguides_  
 L. Demkowicz, M. Halla, J.M. Melenk  
-[Oden Institute Report 25-03](https://oden.utexas.edu/research/publications?searchNeedle=Analysis%20of%20Circular%20Waveguides)
+[arXiv:2603.15107](https://arxiv.org/abs/2603.15107)
+<!-- [2] _Analysis of Circular Waveguides_  
+L. Demkowicz, M. Halla, J.M. Melenk  
+[Oden Institute Report 25-03](https://oden.utexas.edu/research/publications?searchNeedle=Analysis%20of%20Circular%20Waveguides) -->
 
 [1] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
 M. Halla, C. Lehrenfeld, T. van Beeck  
@@ -20,7 +28,8 @@ Refereed articles
 
 [19] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
 M. Halla  
-Numerische Mathematik, in production (2026)  
+<!-- [Numerische Mathematik, online (2026)](https://doi.org/10.1007/s00211-026-01540-8)-->
+Numerische Mathematik, to appear (2026)  
 [arXiv:2306.03496](https://arxiv.org/abs/2306.03496)
 
 [18] _On the instabilities of naive FEM discretizations for PDEs
