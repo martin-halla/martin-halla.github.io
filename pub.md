@@ -24,8 +24,8 @@ Refereed articles
 
 [20] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
 M. Halla, C. Lehrenfeld, T. van Beeck  
-ESAIM: Mathematical Modelling and Numerical Analysis, accepted (2026)  
-[arXiv:2504.09547](https://arxiv.org/abs/2504.09547)
+[ESAIM: Mathematical Modelling and Numerical Analysis, online (2026)](10.1051/m2an/2026027)
+<!-- [arXiv:2504.09547](https://arxiv.org/abs/2504.09547) -->
 
 [19] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
 M. Halla  
