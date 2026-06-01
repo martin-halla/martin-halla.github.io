@@ -22,15 +22,15 @@ L. Demkowicz, M. Halla, J.M. Melenk
 Refereed articles
 ------------
 
-[20] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
-M. Halla, C. Lehrenfeld, T. van Beeck  
-[ESAIM: Mathematical Modelling and Numerical Analysis, online (2026)](https://doi.org/10.1051/m2an/2026027)
-<!-- [arXiv:2504.09547](https://arxiv.org/abs/2504.09547) -->
-
-[19] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
+[20] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
 M. Halla  
 [Numerische Mathematik, online (2026)](https://doi.org/10.1007/s00211-026-01540-8)  
 <!-- [arXiv:2306.03496](https://arxiv.org/abs/2306.03496) -->
+
+[19] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
+M. Halla, C. Lehrenfeld, T. van Beeck  
+[ESAIM: Mathematical Modelling and Numerical Analysis, Volume 60, Number 3, Oages 1135-1175 (2026)](https://doi.org/10.1051/m2an/2026027)
+<!-- [arXiv:2504.09547](https://arxiv.org/abs/2504.09547) -->
 
 [18] _On the instabilities of naive FEM discretizations for PDEs
 with sign-changing coefficients_  
