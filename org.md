@@ -4,8 +4,6 @@ title: Events
 order: 5
 ---
 
-* Minisymposium _Analysis and Numerics for PDEs with Nonstandard and Mixed Boundary/Interface Conditions_ at the Conference on Mathematics of Wave Phenomena, 24.-28.02.2025, Karlsruhe, [url](https://conference25.waves.kit.edu/?page_id=120)
-
 * Spring School _Novel Imaging Techniques with Waves_, 11.-14.03.2024, Göttingen, [url](https://www.uni-goettingen.de/en/679376.html)
 
 * Organizing committee _11th Applied Inverse Problems Conference_, 03.-08.09.2023, Göttingen, [url](http://www.aip2023.de)
