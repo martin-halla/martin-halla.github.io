@@ -24,12 +24,12 @@ Refereed articles
 
 [20] _Convergence analysis of nonconform H(div)-finite elements for the damped time-harmonic Galbrun's equation_  
 M. Halla  
-[Numerische Mathematik, online (2026)](https://doi.org/10.1007/s00211-026-01540-8)  
+[Numerische Mathematik, Volume 158, Pages 1389–1419 (2026)](https://doi.org/10.1007/s00211-026-01540-8)  
 <!-- [arXiv:2306.03496](https://arxiv.org/abs/2306.03496) -->
 
 [19] _Hybrid discontinuous Galerkin discretizations for the damped time-harmonic Galbrun's equation_  
 M. Halla, C. Lehrenfeld, T. van Beeck  
-[ESAIM: Mathematical Modelling and Numerical Analysis, Volume 60, Number 3, Oages 1135-1175 (2026)](https://doi.org/10.1051/m2an/2026027)
+[ESAIM: Mathematical Modelling and Numerical Analysis, Volume 60, Number 3, Pages 1135-1175 (2026)](https://doi.org/10.1051/m2an/2026027)
 <!-- [arXiv:2504.09547](https://arxiv.org/abs/2504.09547) -->
 
 [18] _On the instabilities of naive FEM discretizations for PDEs
@@ -80,15 +80,15 @@ M. Halla, T. Hohage
 
 [7] _Analysis of radial complex scaling methods: scalar resonance problems_  
 M. Halla  
-[SIAM Journal on Numerical Analysis, Volume 59, Issue 4, Pages 2054-2074, (2021)](https://doi.org/10.1137/20M1354234)
+[SIAM Journal on Numerical Analysis, Volume 59, Issue 4, Pages 2054-2074 (2021)](https://doi.org/10.1137/20M1354234)
 
 [6] _Galerkin approximation of holomorphic eigenvalue problems: weak T-coercivity and T-compatibility_  
 M. Halla  
-[Numerische Mathematik, Volume 148, Issue 2, Pages 387-407, (2021)](https://doi.org/10.1007/s00211-021-01205-8)  
+[Numerische Mathematik, Volume 148, Issue 2, Pages 387-407 (2021)](https://doi.org/10.1007/s00211-021-01205-8)  
 
 [5] _Electromagnetic Steklov eigenvalues: approximation analysis_  
 M. Halla  
-[ESAIM: Mathematical Modelling and Numerical Analysis, Volume 55, Number 1, Pages 57-76, (2021)](https://doi.org/10.1051/m2an/2020075)
+[ESAIM: Mathematical Modelling and Numerical Analysis, Volume 55, Number 1, Pages 57-76 (2021)](https://doi.org/10.1051/m2an/2020075)
 
 [4] _Two scale Hardy space infinite elements for scalar waveguide problems_  
 M. Halla, L. Nannen  
@@ -110,7 +110,7 @@ Proceedings
 ------------
 [1] _Robust finite element discretizations for a simplified Galbrun's equation_  
 T. Alemán, M. Halla, C. Lehrenfeld, P. Stocker  
-[8th ECCOMAS Congress, Oslo, Norway, (June 2022)](https://doi.org/10.23967/eccomas.2022.206)
+[8th ECCOMAS Congress, Oslo, Norway (June 2022)](https://doi.org/10.23967/eccomas.2022.206)
 
 Thesis
 ------------
