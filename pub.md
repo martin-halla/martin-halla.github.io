@@ -7,6 +7,10 @@ order: 7
 Technical reports 
 ------------
 
+[3] _The Calderón operator for time-harmonic Maxwell's equations in closed waveguides_  
+M. Halla  
+[arXiv:2610.21855](https://arxiv.org/abs/2610.21855)
+
 [2] _Modal bases of coaxial electromagnetic step index fibers_  
 M. Halla  
 [arXiv:2603.16716](https://arxiv.org/abs/2603.16716)
