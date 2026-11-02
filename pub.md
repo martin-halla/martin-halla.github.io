@@ -47,7 +47,7 @@ M. Halla, T. Hohage, F. Oberender
 
 [16] _A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun's equation_  
 M. Halla, C. Lehrenfeld, P. Stocker  
-[IMA Journal of Numerical Analysis (2025)](https://doi.org/10.1093/imanum/draf071)  
+[IMA Journal of Numerical Analysis, Volume 46, Number 5, Pages 2372-2402 (2026)](https://doi.org/10.1093/imanum/draf071)  
 
 [15] _Radial perfectly matched layers and infinite elements for the anisotropic wave equation_  
 M. Halla, M. Kachanovska, M. Wess  
